@@ -1,6 +1,8 @@
 # Examples
 
-<https://www.youtube.com/watch?v=Bga0Hk2pyzQ>
+https://www.math.univ-toulouse.fr/~rondep/CoursTD/poly4GMM_nondiff.pdf
+
+https://www.youtube.com/watch?v=Bga0Hk2pyzQ>
 
 ![Drag Racing](im1.png)
 
